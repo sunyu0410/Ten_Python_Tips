@@ -7,7 +7,7 @@ Dr. Yu Sun, USyd & Swinburne
 * Tip 1: mutable objects and copying
 * Tip 2: mutable objects and default arguments
 * Tip 3: use Chinese in your coding
-* Tip 4: f strings
+* Tip 4: f-strings
 * Tip 5: virtual environments
 * Tip 6: pip install from a text file
 * Tip 8: argument hints
