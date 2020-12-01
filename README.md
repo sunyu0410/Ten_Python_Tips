@@ -4,15 +4,17 @@ Dr. Yu Sun, USyd & Swinburne
 1/12/2020
 
 ## Content
-* [Tip 1](vscode://file/c:/Users/Yu Sun/Documents/Talks/Python/1.py
-)
-* [Tip 2]()
-* [Tip 3]()
-* [Tip 4]()
-* [Tip 5]()
-* [Tip 6]()
-* [Tip 7]()
-* [Tip 8]()
-* [Tip 9]()
-* [Tip 10]()
+* Tip 1: mutable objects and copying
+* Tip 2: mutable objects and default arguments
+* Tip 3: use Chinese in your coding
+* Tip 4: f strings
+* Tip 5: virtual environments
+* Tip 6: pip install from a text file
+* Tip 8: argument hints
+* Tip 9: using debugger in MS Code
+* Tip 10: Jupyter Notebook for presentation
+
+## Contact
+* PhD opportunities: yu.sun@sydney.edu.au or yusun@swin.edu.au
+* Commercial development: sunyu0410@gmail.com
 
