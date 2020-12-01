@@ -17,5 +17,5 @@ Dr. Yu Sun, USyd & Swinburne
 
 ## Contact
 * PhD opportunities: yu.sun@sydney.edu.au or yusun@swin.edu.au
-* Commercial development: sunyu0410@gmail.com
+* Commercial development / tutoring: sunyu0410@gmail.com
 
