@@ -15,6 +15,9 @@ Dr. Yu Sun, USyd & Swinburne
 * Tip 9: using debugger in MS Code
 * Tip 10: Jupyter Notebook for presentation
 
+## What's new in Python
+https://docs.python.org/3.10/whatsnew/
+
 ## Contact
 * PhD opportunities: yu.sun@sydney.edu.au or yusun@swin.edu.au
 * Commercial development / tutoring: sunyu0410@gmail.com
