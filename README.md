@@ -1,7 +1,4 @@
 # 10 Python Tips
-Dr. Yu Sun, USyd & Swinburne
-
-1/12/2020
 
 ## Content
 * Tip 1: mutable objects and copying
@@ -14,11 +11,3 @@ Dr. Yu Sun, USyd & Swinburne
 * Tip 8: argument hints
 * Tip 9: using debugger in MS Code
 * Tip 10: Jupyter Notebook for presentation
-
-## What's new in Python
-https://docs.python.org/3.10/whatsnew/
-
-## Contact
-* PhD opportunities: yu.sun@sydney.edu.au or yusun@swin.edu.au
-* Commercial development / tutoring: sunyu0410@gmail.com
-
